@@ -1,0 +1,17 @@
+@charset html5;
+
+@font-face {
+    font-family: 'Just bubble' ;
+    src: url('JustBubble.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}
